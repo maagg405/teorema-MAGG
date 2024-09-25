@@ -1,0 +1,16 @@
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsthm}
+
+\theoremstyle{plain}
+\newtheorem{theorem}{Teorema}
+
+\begin{document}
+
+\begin{theorem}[Teorema 4]
+Si \( f: [a, b] \to \mathbb{R} \) es continua en \( [a, b] \) y derivable en \( (a, b) \), entonces \( f \) tiene un máximo y un mínimo en \( [a, b] \).
+\end{theorem}
+
+\end{document}
